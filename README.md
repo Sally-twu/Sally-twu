@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sally 👋
+I possess a strong aptitude for big data analysis and a diverse range of machine learning and deep learning algorithms. Through my past internship experiences, I have garnered extensive expertise in data visualization, data science, and system development.
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,sqlite)](https://skillicons.dev)
 
 <!--
 **Sally-twu/Sally-twu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
