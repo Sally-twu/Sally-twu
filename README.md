@@ -1,6 +1,6 @@
 ## Hi, I'm Sally 👋
 I possess a strong aptitude for big data analysis and a diverse range of machine learning and deep learning algorithms. Through my past internship experiences, I have garnered extensive expertise in data visualization, data science, and system development.
-![<Sally-twu>'s Stats](https://github-readme-stats.vercel.app/api?username=<Sally-twu>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Sally-twu's Stats](https://github-readme-stats.vercel.app/api?username=Sally-twu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,sqlite)](https://skillicons.dev)
 
